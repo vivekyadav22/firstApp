@@ -1,0 +1,6 @@
+com\poundwise\customer\CustomerController.class
+com\poundwise\customer\CustomerApplication.class
+com\poundwise\customer\Customer$CustomerBuilder.class
+com\poundwise\customer\Customer.class
+com\poundwise\customer\CustomerService.class
+com\poundwise\customer\CustomerRegistrationRequest.class

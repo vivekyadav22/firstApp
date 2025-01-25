@@ -1,6 +1,2 @@
-server:
+Server:
   port: 8080
-
-spring:
-  application:
-    name: customer
